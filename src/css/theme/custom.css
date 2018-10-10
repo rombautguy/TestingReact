@@ -394,7 +394,6 @@ a.dropdown-toggle.nav-link a {
 }
 
 section.landing-hero {
-    background-image: url(../../images/hero-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -411,7 +410,6 @@ section.landing-hero {
 }
 
 .corporate {
-    background-image: url(../../images/corporate-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -419,7 +417,6 @@ section.landing-hero {
 
 @media screen and (max-width: 600px) {
     .corporate {
-        background-image: url(../../images/corporate-background-sm.jpg);
         background-position: bottom;
     }
 }
